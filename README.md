@@ -26,4 +26,4 @@ Small collection of HTML/CSS examples and exercises used for learning and experi
 3. Push and open a pull request.
 
 ## License
-Specify a license (e.g. MIT) or add a `LICENSE`
+Specify a license (e.g. MIT) or add a `LICENSE` file,,
