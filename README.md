@@ -4,7 +4,7 @@ Small collection of HTML/CSS examples and exercises used for learning and experi
 
 ## Overview
 - Purpose: practice layout, responsive design, and CSS features.
-- Contents: HTML files, CSS styles, and assets.
+- Contents: HTML files, CSS styles, and asset
 
 ## Live preview
 - Open `index.html` in your browser.
