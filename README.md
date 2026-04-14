@@ -23,7 +23,7 @@ Small collection of HTML/CSS examples and exercises used for learning and experi
 ## Contributing
 1. Create a branch: `git checkout -b feature/name`
 2. Commit changes: `git add . && git commit -m "Describe change"`
-3. Push and open a pull request.
+3. Push and open a pull request
 
 ## License
 Specify a license (e.g. MIT) or add a `LICENSE` file.
